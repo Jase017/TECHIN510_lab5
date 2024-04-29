@@ -1,5 +1,5 @@
-# Web Scraping Website
-Here is a web scraping website that scrapes books from "http://books.toscrape.com. You can easily search and filter books on this website!
+# Introduction
+Here is a web application designed to enhance the experience of Dungeons & Dragons game players by automating certain aspects of gameplay. The app integrates with Google's Gemini AI to generate encounters and responses based on user actions and selected difficulties, enriching the storytelling process with dynamic and AI-driven content.
 
 ## Getting Started
 ```
@@ -11,9 +11,11 @@ streamlit run app.py
 ```
 
 ## Lesson Learned
-- Proper database schema design is crucial. Anticipate future needs and design your database to easily incorporate new data types or sources.
-- GitHub Actions is a powerful tool for automating software workflows
+- How to integrate Google's Gemini AI showcased the potential of using AI to enhance game narrative and complexity.
+- How to design intuitive interfaces that could handle both the informational needs and the aesthetic expectations of users.
+- Explored deep functionalities of Streamlit, learning how to effectively use session states, sliders, and interactive buttons to create a dynamic web application. 
 - Some error handling skills
 ## Questions
-- What are the scalability limitations of using GitHub Actions for web scraping?
-- How can the data structure be optimized for faster queries or richer insights?
+- How can we expand the AI's role in gameplay beyond generating encounters and responses?
+- Can we generate some game scene during the playing to make the experience more immersive?
+- What additional features would enhance the player experience?
